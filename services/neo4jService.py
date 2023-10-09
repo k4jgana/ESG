@@ -1,4 +1,5 @@
 from neo4j import GraphDatabase
+from py2neo import Graph, Node, Relationship
 
 class Neo4jDB:
     def __init__(self, uri, user, password):
@@ -46,3 +47,37 @@ def test_connection():
     except Exception as e:
         print(f"Connection to Neo4j failed: {str(e)}")
         return False
+    
+
+def insert_to_neo4j(df):
+
+    graph = Graph("bolt://localhost:7687", user="neo4j", password="00000000")
+
+    # Assuming you have a DataFrame named 'df' with your data
+    # You can read the data from your CSV file using pandas like this:
+    # df = pd.read_csv('your_data.csv')
+
+    # Iterate through the DataFrame and create nodes for Organizations and Titles
+    for index, row in df.iterrows():
+        # Create an Organization node for each row
+        organization = Node("Organization", name=row["Organizations"])
+
+        # Create a Title node with the specified properties
+        title = Node("Title", 
+                     name=row["Tense"],
+                     Date=row["Date"],
+                     Title=row["Title"],
+                     Text=row["Text"],
+                     Category=row["Category"],
+                     site=row["site"],
+                     Tense=row["Tense"])
+
+        # Create a relationship between Organization and Title nodes
+        relation = Relationship(organization, "ABOUT", title)
+
+        # Merge (create or update) the nodes and relationship in the Neo4j database
+        graph.merge(organization, "Organization", "name")
+        graph.merge(title, "Title", "Title")
+        graph.merge(relation)
+
+    print("Data inserted into Neo4j successfully.")
