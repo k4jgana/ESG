@@ -1,0 +1,290 @@
+BlackRock
+Microsoft
+SEC
+Shell
+S&P
+Amazon
+IBM
+DeutscheBank
+GoldmanSachs
+S&PGlobal
+UN
+Ford
+WorldBank
+SchneiderElectric
+EIB
+Honeywell
+Apple
+Starbucks
+PepsiCo
+UnitedAirlines
+ExxonMobil
+BankofAmerica
+Chevron
+BMW
+Walmart
+Google
+JetBlue
+Tesla
+Nestlé
+Toyota
+SAP
+Airbus
+H&M
+Netflix
+IKEA
+Mercedes-Benz
+Iberdrola
+MSCI
+Macquarie
+Citi
+SAF
+DOE
+UBS
+ICE
+KKR
+DWS
+KPMG
+Maersk
+BCG
+Delta
+Volvo
+Unilever
+ISSESG
+UK
+FCA
+Holcim
+SAP
+Accenture
+Eni
+ABB
+Amundi
+BP
+Capgemini
+Deloitte
+EBRD
+IKEA
+Enel
+Apollo
+Blackstone
+JPMorgan
+ADB
+Stellantis
+Temenos
+BASF
+ENGIE
+Lenovo
+AXAIM
+BNPParibas
+AirLiquide
+Blackbaud
+Neste
+P&G
+AirFrance
+Santander
+CFAInstitute
+SunLife
+Samsung
+Boeing
+TataSteel
+Hitachi
+ApexGroup
+BNPParibasAM -> BNPParibas
+DukeEnergy
+AmericanAirlines
+Equinor
+AT&T
+Carlyle
+AWS -> Amazon
+Amgen
+Sphera
+S&PDJI -> S&P
+ClarityAI
+AlaskaAirlines
+HP
+Black&Veatch
+Novata
+Nike
+BMWGroup -> BMW
+Siemens
+U.S.Steel
+Stake
+AmericanExpress
+McDonald’s
+Meta
+Diageo
+Lufthansa
+EstéeLauder
+Finastra
+HomeDepot
+ArcelorMittal
+CIBC
+Coca-Cola
+PwC
+L'Oréal
+U.S.Bank
+BCorp
+KelloggCompany
+Scania
+Ahlstrom
+Repsol
+HitachiEnergy -> Hitachi
+Sempra
+Bloomberg
+Exxon -> ExxonMobil
+UniCredit
+Mastercard
+Nissan
+SamsungElectronics -> Samsung
+Philips
+CreditSuisse
+DBS
+JohnsonControls
+Aramco
+CEMEX
+Volkswagen
+Diginex
+Nokia
+Barclays
+Forbes
+MorganStanley
+WellsFargo
+CMEGroup
+LincolnFinancialGroup
+UKGovernment
+BBVA
+EcoVadi
+Putnam
+CanadianSolar
+VirginAtlantic
+Porsche
+ScottishWidows
+RoyalCaribbeanGroup
+Allianz
+3M
+WellsFargoFoundation -> WellsFargo
+WSP
+WheatonPreciousMetals
+BCSD
+WillisTowers
+AvivaInvestors
+BritishAirways
+EtihadAirways
+OMV
+DAE
+BNYMellon
+CPPInvestments
+EdgeConneX
+Ørsted
+Visa
+T-Mobile
+LG
+SiemensGamesa -> Siemens
+FiByte
+WesternUnion
+DanskeBank
+DubaiIslamicBank
+DJSI
+AXA
+Gevo
+Marsh
+Bacardi
+S&PGlobalMarketIntelligence -> S&P
+Equinix
+Chipotle
+Electrolux
+GoogleCloud -> Google
+Qontigo
+Tesco
+Pfizer
+Barrick
+FedEx
+HersheyCompany
+Emirates
+estlé -> Nestlé
+LGChem
+Honda
+Kuehne+Nagel
+Persefoni
+FigBytes 
+U.S.DepartmentofTransportation
+StevanatoGroup
+Etihad
+DE&I
+MaxeonSolarTechnologies
+YCRACompany
+WoltersKluwer&Maker
+DGFuels
+Vedanta
+Bmass
+QatarEnergy
+Crocs
+TCEnergy
+Mizuho
+SBC
+AECOM
+AmazonCo -> Amazon
+Target
+LufthansaGroup -> Lufthansa
+WayCarbon
+AkzoNobel
+IHSMark
+JPMorganChase -> JPMorgan
+AflacInc
+KitKat
+FirstRepublicBank
+Adidas
+FTSERussell
+AbbVie
+Jacobs
+MetLife
+Burberry
+SwedbankRob
+AmundiEx -> Amundi
+Mirova
+GeneralMotors
+Sony
+Petrofac
+Phillips66
+Verizon
+AmundiUS -> Amundi
+Ferrari
+PhilipMorrisInternational
+Temasek
+Fujitsu
+LloydsBankingGroup
+Saintbain
+Pandora
+PUMA
+S&PDJ
+NipponSteel
+RedenSolar
+LuLuGroup
+TurkishAirlines
+Lisa
+TevaEx
+EnfinityGlobal
+VolvoTrucks -> Volvo
+DBLGroup
+IPtors&Corporate
+PwCAustralia -> PwC
+LipBalmCo
+BNPParibasN -> BNPParibas
+StenaLine
+ShellVenturesInP -> Shell
+Qualcomm
+S&PGlobalLaunch -> S&P
+GIG
+Infinity
+Novelis
+NuveenRealEstate
+StellantisIn -> Stellantis
+WHO
+BCorpBusiness -> BCorp
+CalSTRS
+BloombergTerminal -> Bloomberg
+ShellA -> Shell
+ToyotaInvests -> Toyota
+NestléTracks -> Nestlé
+Panasonic
+
